@@ -1,0 +1,57 @@
+# 🔹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 🔹 VS Code / IDE
+.vscode/
+.idea/
+
+# 🔹 System files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Data files (avoid large datasets)
+data/
+datasets/
+*.csv
+
+# 🔹 Model files (trained models)
+models/
+*.pkl
+*.joblib
+*.h5
+
+# 🔹 Output files
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# 🔹 Streamlit cache
+.streamlit/
+
+# 🔹 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🔹 Temporary files
+*.tmp
+*.temp
