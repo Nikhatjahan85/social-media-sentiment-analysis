@@ -231,9 +231,13 @@ python src/predict.py
 ## Business Applications
 
 • Social media monitoring
+
 • Customer feedback analysis
+
 • Product review insights
+
 • Brand sentiment tracking
+
 • Business intelligence dashboards
 
 
@@ -243,9 +247,13 @@ python src/predict.py
 
 
 • Frontend: Streamlit
+
 • Backend: Python
+
 • ML: Scikit-learn
+
 • Data Processing: Pandas, NumPy
+
 • Visualization:  Matplotlib
 
 
