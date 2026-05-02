@@ -222,7 +222,9 @@ python src/predict.py
 
 
 • Labeled dataset containing social media text
+
 • Classes: Positive, Negative, Neutral
+
 • Supports custom dataset upload via dashboard
 
 
@@ -264,9 +266,13 @@ python src/predict.py
 
 
 • Integration with deep learning models (BERT, LSTM)
+
 • Real-time API deployment
+
 • Cloud deployment (Streamlit Cloud / AWS)
+
 • Multilingual sentiment analysis
+
 • Advanced NLP techniques
 
 
