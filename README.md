@@ -28,32 +28,42 @@ The system is designed to provide **real-time insights** and **data-driven decis
 
 ## Key Features
 
-• Real-time Text Analysis
+#### • Real-time Text Analysis
+
 
   Analyze any user input and instantly get sentiment prediction with confidence score
 
 
-• Interactive Dashboard
+#### • Interactive Dashboard
+
 
   Clean UI with charts, metrics, and insights
 
 
-•  Batch Prediction
+#### •  Batch Prediction
+
 
   Upload CSV files and analyze large datasets
 
 
-• Sentiment Distribution & Trends
+
+#### • Sentiment Distribution & Trends
+
 
   Visual breakdown of Positive / Negative / Neutral
 
 
-• Model Performance Tracking
+
+#### • Model Performance Tracking
+
 
   Includes accuracy, F1-score, and confusion matrix
 
 
-• Fast & Lightweight ML Pipeline
+
+
+#### • Fast & Lightweight ML Pipeline
+
 
   Optimized using TF-IDF + Logistic Regression
 
@@ -195,13 +205,13 @@ pip install -r requirements.txt
 
 ### Run Dashboard
 
-```bash
+
 streamlit run dashboard/app.py
-```
+
 
 ### Run Prediction Script
 
-```bash
+
 python src/predict.py
 
 
