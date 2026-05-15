@@ -1,13 +1,9 @@
 # 📊 Social Media Sentiment Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge\&logo=python)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit)
-
 ![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
-
 ![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge)
-
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 
